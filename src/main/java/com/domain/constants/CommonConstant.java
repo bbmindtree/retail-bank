@@ -1,7 +1,7 @@
 package com.domain.constants;
 
 /**
- * @author Navneet Kumar
+ * @author Prakhar Dwivedi
  *
  */
 /******************************************************************************

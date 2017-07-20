@@ -3,7 +3,7 @@ package com.domain.model;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
 /**
- * @author Navneet Kumar
+ * @author Prakhar Dwivedi
  *
  */
 /******************************************************************************

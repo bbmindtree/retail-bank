@@ -1,7 +1,7 @@
 package com.domain.model;
 
 /**
- * @author Navneet Kumar
+ * @author Prakhar Dwivedi
  *
  */
 /******************************************************************************
